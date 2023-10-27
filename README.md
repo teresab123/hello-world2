@@ -7,3 +7,4 @@ This repository is built step by step in the tutorial.
 This is my first public repository. 
 
 It now includes steps for GitHub.
+New line added.
